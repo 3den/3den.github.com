@@ -1,0 +1,3 @@
+[submodule "bundle/html5-boilerplate"]
+	path = bundle/html5-boilerplate
+	url = https://github.com/h5bp/html5-boilerplate.git
