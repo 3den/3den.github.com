@@ -134,11 +134,16 @@ figure { margin: 0; }
 
 #info {
     margin: 10px auto;
-    width: 90%;
-    max-width: 400px;
+    width: 450px;
     text-align: center;
     overflow: hidden;
     padding: 5px;
+    border: 1px solid #999
+}
+
+.camera {
+  margin: 100px auto
+  width: auto
 }
 
 header h1 {
@@ -163,25 +168,15 @@ header h2 {
 
 nav a, nav a:visited {
   padding: 0 5px;
-  padding: 0 5px;
   color: #1D7074;
+  font-family: monospace;
   text-decoration: none;
 }
 
 nav a:hover {
   color: #34C6CD;
+  text-decoration: underline;
 }
-
-
-
-
-
-
-
-
-
-
-
 
 /* ==|== media queries ======================================================
    PLACEHOLDER Media Queries for Responsive Design.
